@@ -1,0 +1,5 @@
+InvertedIndexReducer.class
+InvertedIndexMapper.class
+InvertedIndexDriver.class
+WritableUtils.class
+InvertedIndexCombiner.class
